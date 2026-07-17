@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1266-minimum-time-visiting-all-points) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
