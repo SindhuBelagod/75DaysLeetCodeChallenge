@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Counting Sort
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1266-minimum-time-visiting-all-points) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
