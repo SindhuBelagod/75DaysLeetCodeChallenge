@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
