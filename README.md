@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0784-letter-case-permutation](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
+| [0784-letter-case-permutation](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 ## Simulation
 |  |
 | ------- |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
