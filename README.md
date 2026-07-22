@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0845-longest-mountain-in-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0845-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
