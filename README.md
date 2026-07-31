@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
