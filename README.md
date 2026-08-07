@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
