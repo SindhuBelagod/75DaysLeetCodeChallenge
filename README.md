@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
