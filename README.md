@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0784-letter-case-permutation](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
+| [1021-remove-outermost-parentheses](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
