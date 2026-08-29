@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0784-letter-case-permutation](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 | [1021-remove-outermost-parentheses](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1266-minimum-time-visiting-all-points) |
+| [1903-largest-odd-number-in-string](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
