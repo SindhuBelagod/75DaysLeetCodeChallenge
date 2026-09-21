@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1266-minimum-time-visiting-all-points) |
 | [1903-largest-odd-number-in-string](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## Backtracking
 |  |
 | ------- |
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
