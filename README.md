@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 ## Math
@@ -319,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SindhuBelagod/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
